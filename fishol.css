@@ -99,8 +99,7 @@
 
 /* 设置音量控制条滑块的宽度为8像素，并设置其背景图片为指定的图片 */
 #player #volumeSlider {
-    width: 16px;
-	height: 8px;
+    width: 8px;
 	background: url(https://fishol.github.io/music_player/Volume-slider.png);
 
 	
