@@ -5,7 +5,7 @@
 
 /* 设置播放器的背景图片为指定的图片，并在底部对齐，背景颜色为白色 */
 #player {
-    /* background: url(https://fishol.github.io/music_player/branca.png); */
+    background: url(https://fishol.github.io/music_player/branca.png);
     background-position: bottom;
     background-color: #2f333c;
 }
